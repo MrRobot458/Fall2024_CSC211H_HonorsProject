@@ -1,0 +1,30 @@
+A ______ ______ is the set of all subsets of a set.	power set
+The ______ of a vertex is the number of edges incident to that vertex.	degree
+What is another name for a directed graph?	digraph
+A ______ is a set where every element is also in another set.	subset
+How many rows are in a truth table for a compound proposition that has 3 variables?	8
+Solve the following bitstring operation: 1100 0011  OR  1010 1010	11101011
+Solve the following bitstring operation: 1100 0011  AND  1010 1010	10000010
+Solve the following bitstring operation: 1100 0011  XOR  1010 1010	01101001
+Assume that |S| = 2, and |T| = 3. What is the result of |S x T| ?	6
+Using Big-O notation, what is the worst case time complexity of selection sort? Use "^" to denote the exponent.	O(n^2)
+Using Big-O notation, what is the worst case time complexity of insertion sort? Use "^" to denote the exponent.	O(n^2)
+Using Big-O notation, what is the worst case time complexity of bubble sort? Use "^" to denote the exponent.	O(n^2)
+Using Big-O notation, what is the worst case time complexity of merge sort? Use "^" to denote the exponent.	O(nlogn)
+Using Big-O notation, what is the worst case time complexity of linear search? Use "^" to denote the exponent.	O(n)
+What is the return value of factorial(4) ?	24
+What is the return value of gcd(4, 17) ?	1
+A(n) ______ graph has edges with no direction.	undirected
+According to the theorem, a(n) ______ ______ exists if the degree for every vertex is even.	Euler circuit
+According to the theorem, a(n) ______ ______ exists if there are exactly 2 vertices of odd degree.	Euler path
+Prim's or Kruskal's algorithm can be used to find the ______ ______ ______ of a weighted graph.	minimum spanning tree
+Solve the following permutation: P(10, 3)	720
+Solve the following combination: C(5, 2)	10
+A declarative sentence that is either true or false is called a ______.	proposition
+If p and q are both true, then the conjunction of p and q is false. Yes or no?	no
+If w is true and z is false, then the disjunction of w and z is true. Yes or no?	yes
+If r and q are both true, then r XOR q is also true. Yes or no?	no
+There are 2 kinds of indirect proofs: proof by contradiction and proof by ______.	contrapositive
+The integer n is ______ if there exists an integer k, such that n = 2k.	even
+The integer n is ______ if there exists an integer k, such that n = 2k + 1.	odd
+What do you call an edge that connects a vertex to itself?	loop

@@ -1,0 +1,80 @@
+# Ignore project files & .png files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.png
+*.db
+
+# Ignore project materials not meant to be on GitHub
+[Dd]ocumentation/
+
+# Ignore compiled files and files built by Visual Studio
+.builds
+*.builds
+*.exe
+*.gch
+*.ilk
+*.iobj
+*.ipdb
+*.log
+*.meta
+*.o
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.pidb
+*.rsp
+*.sbr
+*.scc
+*.svclog
+*.tlb
+*.tlh
+*.tli
+*.tlog
+*.vspscc
+*.vssscc
+*_h.h
+*_i.c
+*_p.c
+
+# Ignore Visual Studio and user-specific files and directories
+.vs/
+.vscode/
+.vs2019/
+*.rsuser
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Ignore build results directories
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Bb]ld/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug-d/
+[Ll]og/
+[Ll]ogs/
+[Oo]bj/
+[Rr]elease/
+[Rr]eleases/
+[Ww][Ii][Nn]32/
+x64/
+x86/
+
+# Ignore test results
+[Tt]estResults/
+
+# Ignore backup and temporary files
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*~

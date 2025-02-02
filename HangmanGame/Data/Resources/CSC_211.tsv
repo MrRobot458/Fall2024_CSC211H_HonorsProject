@@ -1,0 +1,30 @@
+What is stored in a pointer?	memory address
+Which keyword is used for dynamically allocating memory?	new
+Which keyword frees dynamically allocated memory?	delete
+What is prevented when deleting dynamically allocated objects?	memory leak
+What is a variable that refers to another variable called?	reference variable
+What is similar to an array but resizable?	vector
+A class is an example of what kind of data type?	abstract data type
+A class is the _________ of an object.	blueprint
+An object is an ________ of a class.	instance
+What is the practice of hiding implementation details called?	encapsulation
+What is it called when a class is derived from another class?	inheritance
+The keyword used to declare members that cannot be accessed outside of a class.	private
+Exception handling can be done by using ______ and ______ blocks.	try catch
+Class members that can only be accessed by base and derived classes are ______.	protected
+Having multiple functions with the same name but different parameters is called what?	function overloading
+The keyword used to signal an exception.	throw
+A function that calls itself is known as what?	recursive function
+A ______ allows functions and classes to operate with generic types.	template
+What kind of function can be used to perform runtime polymorphism?	virtual function
+What must a function have to prevent infinite recursion?	base case
+A class with at least 1 pure virtual function is an ______ class.	abstract
+Special function that initializes a new object with an existing object.	copy constructor
+What is it called when the definition of a member function is modified in a derived class?	function overriding
+The keyword that denotes a member variable that belongs to a class and not its instances.	static
+A pointer that refers to an object itself.	this
+Who created the C++ programming language?	Bjarne Stroustrup
+Class B inherits from class A. This makes class A the ______ class.	parent
+What can classes have that structs can't?	functions
+What do you call a pointer that used to point to an object but now does not?	dangling pointer
+What does a smart pointer automatically do for you?	memory management

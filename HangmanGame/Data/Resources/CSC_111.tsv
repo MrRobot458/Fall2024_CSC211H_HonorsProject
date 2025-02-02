@@ -1,0 +1,30 @@
+Which data type is for integers?	int
+What is the data type for floating-point numbers?	float
+What keyword is used to declare a constant?	const
+Type the command used to include a header file in your program.	#include
+What is the output stream object used to output to the console?	cout
+What is the input stream object used to read data from the standard input?	cin
+A sequence of characters is called a ______.	string
+Enter the command for including the string header file.	#include <string>
+Enter the command for including the input/output header file.	#include <iostream>
+What is another name for 8 bits?	byte
+What kind of operator has 3 operands?	ternary
+Which data type is used to store integers that exceed 4 bytes?	long
+Type the function that is the "entry point" of a program.	main()
+A(n) ______ is used to store multiple values of the same type.	array
+The ______ loop should be used when the number of iterations is known beforehand.	for
+What operator returns the size of a data type or variable?	sizeof
+What keyword can be used to exit a loop early?	break
+How do you begin a single line comment in C++?	//
+What keyword is used for a function that does not return a value?	void
+Type the symbol needed at the end of every statement?	;
+A function must have a ______ statement to return a value.	return
+A function ______ defines the data type and the name of a function.	prototype
+The do-while loop performs at least 1 ______.	iteration
+A ______ can have members of different data types.	structure
+What does a pointer store?	memory address
+Which keyword is used to declare a structure?	struct
+What does the compiler create after compilation?	object file
+When are global and static variables allocated memory?	compile time
+The ______ statement can contain multiple cases.	switch
+Which symbol is needed to declare a pointer variable?	*
